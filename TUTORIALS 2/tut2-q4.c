@@ -6,9 +6,9 @@
 
 int main() {
     char name[] = "Karthik Krishnan";
-    char address[] = "Kunnathu Pisharam Memury P.O";
+    char address[] = "My House Memury P.O";
     char city[] = "Kottayam";
-    char phone[] = "9446045030";
+    char phone[] = "9********0";
     
     printf("Name: %s\n", name);
     printf("Address: %s\n", address);
