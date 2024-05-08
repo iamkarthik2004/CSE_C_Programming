@@ -1,0 +1,11 @@
+LAB 8
+27 APRIL 2024
+SATUARDAY
+
+Q1) Read two inputs each representing the distances between twwo points in Euclidean space, store these in structure variables and add the two distance values.
+
+
+Q2) Using Structure, read and print data of n employees (Name, Employee ID, and Salary)
+Decalre a union containing 5 string variables (Name, House Name, City Name, State, and Pin Code)
+each with a length of C_SIZE (user-defined constant).
+Then, read and display the address of a person using a varibale of the union.
