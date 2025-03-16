@@ -2,3 +2,6 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+
+NOTES LINK: https://drive.google.com/drive/folders/1UeJgKsKAjscciCfqpZJ7tRekMlFuBAOg?usp=drive_link
